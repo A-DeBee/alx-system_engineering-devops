@@ -1,1 +1,2 @@
-display content list of directory
+#!/bin/bash
+a script that changes the working directory to the user’s home directory
