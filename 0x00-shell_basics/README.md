@@ -1,1 +1,1 @@
-Back to the future
+a script that changes the working directory to the previous one
