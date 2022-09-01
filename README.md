@@ -1,2 +1,1 @@
-#!bin/bash
-current working directory
+switches the current user to the user betty
