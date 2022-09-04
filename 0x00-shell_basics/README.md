@@ -1,3 +1,2 @@
-script that prints thee type of file named iamafile
-symbolic link
-copies all HTML files
+deletes all files in the current working directory that end with the character ~
+creates directories
