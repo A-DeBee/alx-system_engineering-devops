@@ -1,2 +1,2 @@
 #!/bin/bash
-file/tmp/iamafile
+tmp_dir=$(mktemp -d -t ci-iamafile)
